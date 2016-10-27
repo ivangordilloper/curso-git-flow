@@ -1,0 +1,12 @@
+configuraciones.
+
+#DATABASES = {
+#    'default':{
+#    'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#    'NAME': 'RDSL',
+#    'USER': 'brandish',
+#    'PASSWORD': '12345',
+#    'HOST': 'localhost',
+#    'PORT': '5432'
+#    }
+#}
